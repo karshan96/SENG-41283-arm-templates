@@ -1,0 +1,63 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "profiles_ems_name": {
+            "value": null
+        },
+        "sites_EMS_Frontend_name": {
+            "value": null
+        },
+        "sites_details_function_name": {
+            "value": null
+        },
+        "sites_Simple_EMS_Backend_name": {
+            "value": null
+        },
+        "frontdoors_emsfrontdoor_name": {
+            "value": null
+        },
+        "serverfarms_detailsfunction_name": {
+            "value": null
+        },
+        "components_EMS_Frontend_name": {
+            "value": null
+        },
+        "servers_karshan_dbserver_name": {
+            "value": null
+        },
+        "storageAccounts_c5d637eba6e64cb58870_name": {
+            "value": null
+        },
+        "serverfarms_ServicePlan6beb4382_a011_4f74_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountsimpl88be_name": {
+            "value": null
+        },
+        "components_details_function_20200816185953818_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___ems_frontend_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___ems_nodeserver_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___karshan_functions_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___details_function_20200816185953818_name": {
+            "value": null
+        },
+        "components_ems_nodeserver_externalid": {
+            "value": null
+        },
+        "components_karshan_functions_externalid": {
+            "value": null
+        }
+    }
+}
